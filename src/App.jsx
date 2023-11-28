@@ -44,26 +44,3 @@ export default App;
 
 
 
-// import Signup from "./Signup.jsx";
-// import Appbar from "./Appbar.jsx";
-// function App() {
-
-//   return (
-//     <>
-//       <div style={{
-//         width: "100vw",
-//         height: "100vh",
-//         backgroundColor: "#eeeeee"
-//       }}>
-//         <Appbar></Appbar>
-//         {/* <Signup></Signup> */}
-//         <Signin></Signin>
-//       </div>
-//     </>
-//   )
-// }
-
-
-
-
-// export default App
